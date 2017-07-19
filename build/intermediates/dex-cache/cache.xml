@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\admin\OneDrive\Course\android\assignment\corp\session7\SQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\admin\OneDrive\Course\android\assignment\corp\session7\SQLiteDemo\app\build\intermediates\pre-dexed\debug\classes-5fd6f44539fcf069ae5e5f1ef279e6d1f15e6db6.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\OneDrive\Course\android\assignment\corp\session7\SQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\admin\OneDrive\Course\android\assignment\corp\session7\SQLiteDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-b6b250a0162fa36cc89c8306e98610bd2af91601.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tools\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\admin\OneDrive\Course\android\assignment\corp\session7\SQLiteDemo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-383e54284374a0979ec65c1367ff05d060550f15.jar" />
+    </item>
+
+</items>
